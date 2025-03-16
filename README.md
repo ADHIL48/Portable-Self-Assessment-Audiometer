@@ -36,6 +36,19 @@ This project focuses on developing a **Portable Self-Assessment Audiometer** usi
   - 🎵 PyAudio (for sound processing)
   - 🖼️ Tkinter (for GUI development)
   - 🌍 PyVNC (for remote access)
+
+
+## 📂 Project Files
+This Google Drive has all the **source code & report** of the project.
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1BzAvnNeO_ckDrbpHNvytAF8wMDfrcYT7?usp=drive_link">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpqGi5vvAo4AE8EZln43IGhzSAZ21J50G2sQ&s" alt="Google Drive"width="300" height="130">
+  </a>
+</p>
+
+**Note:** Large documents are present in the above drive as GitHub only offers a **25MB max per document**.
+
+
   
 ## 🚀 Installation & Setup
 
@@ -66,6 +79,23 @@ python audiometer.py
 - 📈 **Audiogram Creation**: An **audiogram** is generated based on the user’s responses.
 - 💾 **Data Storage**: Results are stored in **CSV format** with date and time for future reference.
 - 📊 **Graphical Analysis**: The software provides a **graphical analysis** of hearing loss stages and allows comparison over time.
+
+
+  ## 🎯 Applications
+
+- 🏥 **Hearing self-assessment** for individuals.
+- 👨‍⚕️ **Preliminary hearing screening** before professional diagnosis.
+- 🧓 **Early detection of hearing loss** in elderly individuals.
+- 🔗 **Remote monitoring** by audiologists via VNC.
+- 🎓 **Educational purposes** for audiology students and researchers.
+
+## 🔮 Future Enhancements
+
+- 📱 **Integration with mobile applications** for better accessibility.
+- 🎶 **Support for bone conduction audiometry**.
+- 🤖 **Enhanced machine learning-based threshold prediction**.
+- ☁️ **Integration with cloud storage for result tracking**.
+- 🌎 **Multi-language support for global usability**.
 
 ## 📂 Sample Output
 
@@ -110,32 +140,9 @@ python audiometer.py
 </p>
 
 
-## 📂 Project Files
-This Google Drive has all the **source code & report** of the project.
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1BzAvnNeO_ckDrbpHNvytAF8wMDfrcYT7?usp=drive_link">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpqGi5vvAo4AE8EZln43IGhzSAZ21J50G2sQ&s" alt="Google Drive"width="250" height="80">
-  </a>
-</p>
-
-**Note:** Large documents are present in the above drive as GitHub only offers a **25MB max per document**.
 
 
-## 🎯 Applications
 
-- 🏥 **Hearing self-assessment** for individuals.
-- 👨‍⚕️ **Preliminary hearing screening** before professional diagnosis.
-- 🧓 **Early detection of hearing loss** in elderly individuals.
-- 🔗 **Remote monitoring** by audiologists via VNC.
-- 🎓 **Educational purposes** for audiology students and researchers.
-
-## 🔮 Future Enhancements
-
-- 📱 **Integration with mobile applications** for better accessibility.
-- 🎶 **Support for bone conduction audiometry**.
-- 🤖 **Enhanced machine learning-based threshold prediction**.
-- ☁️ **Integration with cloud storage for result tracking**.
-- 🌎 **Multi-language support for global usability**.
 
 
 ---
