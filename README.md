@@ -1,4 +1,8 @@
-# 🎧 Portable Self-Assessment Audiometer
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=750&lines=🎧+Portable+Self-Assessment+Audiometer;A+Smart+Way+to+Test+Your+Hearing!">
+</h1>
+
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/audiologist-audiometry-hearing-test-screening-illustration-download-in-svg-png-gif-file-formats--exam-cochlea-drum-various-themes-set-151-pack-miscellaneous-illustrations-9643726.png?f=webp" alt="Big Smile Emoji" width="250px" align="right">
 
 
