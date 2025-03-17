@@ -1,6 +1,10 @@
 # 🎧 Portable Self-Assessment Audiometer
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/audiologist-audiometry-hearing-test-screening-illustration-download-in-svg-png-gif-file-formats--exam-cochlea-drum-various-themes-set-151-pack-miscellaneous-illustrations-9643726.png?f=webp" alt="Big Smile Emoji" width="250px" align="right">
 
-## 📝 Overview
+
+
+
+## 📝 Overview<img src="https://i0.wp.com/audiocardio.com/wp-content/uploads/2020/07/shutterstock_1073978558.png?fit=1600%2C1036&ssl=1" alt="Big Smile Emoji" width="250px" align="right">
 
 This project focuses on developing a **Portable Self-Assessment Audiometer** using **Raspberry Pi**. The device enables individuals to perform hearing tests without requiring an audiologist, making hearing screening accessible, affordable, and convenient.
 
@@ -72,6 +76,7 @@ python audiometer.py
 ```
 
 ## 🔍 How It Works
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/audiologist-audiometry-hearing-test-screening-illustration-download-in-svg-png-gif-file-formats--exam-cochlea-drum-various-themes-set-151-pack-miscellaneous-illustrations-9643726.png?f=webp" alt="Big Smile Emoji" width="250px" align="right">
 
 - 🎵 **Tone Generation**: The system generates **pure tones** at different frequencies ranging from **125 Hz to 8 kHz**.
 - 🎧 **User Interaction**: The user listens to tones through headphones and responds by clicking the mouse.
@@ -160,9 +165,10 @@ This project is open-source and available under the **MIT License**.
 
 ---
 ## ⭐ Support This Project
-
 If you found this helpful, **⭐ star this repo!**  
 It helps this project become more visible to others and supports future contributions.  
 ---
 Thank you for your support! 🚀  
+
+
 
