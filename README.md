@@ -3,12 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=750&lines=🎧+Portable+Self-Assessment+Audiometer;A+Smart+Way+to+Test+Your+Hearing!">
 </h1>
 
+
+
+
+
+
+## 📝 Overview
+<img src="https://i0.wp.com/audiocardio.com/wp-content/uploads/2020/07/shutterstock_1073978558.png?fit=1600%2C1036&ssl=1" alt="Big Smile Emoji" width="250px" align="right">
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/audiologist-audiometry-hearing-test-screening-illustration-download-in-svg-png-gif-file-formats--exam-cochlea-drum-various-themes-set-151-pack-miscellaneous-illustrations-9643726.png?f=webp" alt="Big Smile Emoji" width="250px" align="right">
 
-
-
-
-## 📝 Overview<img src="https://i0.wp.com/audiocardio.com/wp-content/uploads/2020/07/shutterstock_1073978558.png?fit=1600%2C1036&ssl=1" alt="Big Smile Emoji" width="250px" align="right">
 
 This project focuses on developing a **Portable Self-Assessment Audiometer** using **Raspberry Pi**. The device enables individuals to perform hearing tests without requiring an audiologist, making hearing screening accessible, affordable, and convenient.
 
@@ -158,7 +161,7 @@ python audiometer.py
 
 ## 👨‍💻 Project Contributors
 
-- **Adhil M** (Founder & Maintainer)
+- 👤 **Adhil M** (Founder & Maintainer)
 - 👤 **Pranesh S**
 - 👤 **Naveen S**
 
